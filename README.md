@@ -1,5 +1,4 @@
-# Mounting-a-Hard-Drive-in-Linux-
-Partitioning, Formatting, and Mounting a Hard Drive in Linux Ubuntu Server
+# Partitioning, Formatting, and Mounting a Hard Drive in Linux Ubuntu Server
 
 sudo fdisk -l diskinizi görün
 
